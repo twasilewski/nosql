@@ -29,7 +29,7 @@
 1. Eggert Marek
 1. Jakubek Daniel
 1. Kowalska Joanna
-1. Krajnik Martyna
+1. [Krajnik Martyna](https://github.com/mkrajnik/nosql)
 1. Krzychowiec Rafał
 1. Kupniewski Rafał
 1. [Lipiński Michał, Piątek Mariusz](https://github.com/mlipinski2/nosql_zaliczenie)
