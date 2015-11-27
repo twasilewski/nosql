@@ -22,7 +22,7 @@
 ## Niestacjonarne
 
 1. [Bzyl, Włodek](https://github.com/egzamin/solutions)
-1. Basiak Paweł
+1. [Basiak Paweł](https://github.com/pbasiak/pbnosql)
 1. Blum Bartosz
 1. Brzozowski Patryk
 1. Chylicki Adrian
