@@ -26,7 +26,7 @@
 1. Blum Bartosz
 1. Brzozowski Patryk
 1. Chylicki Adrian
-1. Eggert Marek
+1. [Eggert Marek](https://github.com/Marek4f/nosql)
 1. Jakubek Daniel
 1. Kowalska Joanna
 1. [Krajnik Martyna](https://github.com/mkrajnik/nosql)
