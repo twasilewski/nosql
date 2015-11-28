@@ -28,7 +28,7 @@
 1. Chylicki Adrian
 1. [Eggert Marek](https://github.com/Marek4f/nosql)
 1. Jakubek Daniel
-1. Kowalska Joanna
+1. [Kowalska Joanna](https://github.com/jkowalska/nosql)
 1. [Krajnik Martyna](https://github.com/mkrajnik/nosql)
 1. Krzychowiec Rafał
 1. Kupniewski Rafał
