@@ -38,7 +38,7 @@
 1. Ponieważ Paweł
 1. [Portalski Sylwester](https://github.com/sportalski/nosql)
 1. [Ruchlewicz Natalia](https://github.com/nruchlewicz/NoSQL)
-1. Samsoniuk Damian
+1. [Samsoniuk Damian](https://github.com/dsamsoniuk/NoSQL)
 1. Śliwiński Marcin
 1. Tkacz Jessica
 1. Tomasik Przemysław
