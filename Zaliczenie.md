@@ -43,4 +43,4 @@
 1. Tkacz Jessica
 1. Tomasik Przemysław
 1. Wasilewski Tomasz
-1. Wiergowski Paweł
+1. [Wiergowski Paweł](https://github.com/pwiergowski/nosql_f/blob/master/zaliczenie.md)
