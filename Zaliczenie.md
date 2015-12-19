@@ -33,7 +33,7 @@
 1. Krzychowiec Rafał
 1. [Kupniewski Rafał] (https://github.com/rkupniewski/dbnosql/blob/master/zaliczenie.md)
 1. [Lipiński Michał, Piątek Mariusz](https://github.com/mlipinski2/nosql_zaliczenie)
-1. Miszczykowski Mariusz
+1. [Miszczykowski Mariusz](https://github.com/miszczyk/noSQL/blob/master/README.md)
 1. Piątek Mariusz
 1. Ponieważ Paweł
 1. [Portalski Sylwester](https://github.com/sportalski/nosql)
