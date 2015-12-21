@@ -54,13 +54,16 @@ Plus two more rules:
 1. Record all intermediate results, when possible in standardized formats.
 1. Connect textual statements to underlying results.
 
-Two more links:
+Three more links:
 
 * [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide) –
   an exhaustive reference to problems seen in real-world data along
   with suggestions on how to resolve them.
 * [How to share data with a statistician](https://github.com/jtleek/datasharing) –
   it is critical that you include the rawest form of the data that you have access to.
+* Przykładowy (i interesujący) projekt w SQL:
+  Georgios Gousios.
+  [Assessment of the pull based development model, as implemented by Github](https://github.com/gousiosg/pullreqs)
 
 
 ## Bardzo duże pliki z danymi
