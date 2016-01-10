@@ -35,7 +35,7 @@
 1. [Lipiński Michał, Piątek Mariusz](https://github.com/mlipinski2/nosql_zaliczenie)
 1. [Miszczykowski Mariusz](https://github.com/miszczyk/noSQL/blob/master/README.md)
 1. Piątek Mariusz
-1. Ponieważ Paweł
+1. [Ponieważ Paweł](https://github.com/pponiewaz/NoSQL)
 1. [Portalski Sylwester](https://github.com/sportalski/nosql)
 1. [Ruchlewicz Natalia](https://github.com/nruchlewicz/NoSQL)
 1. [Samsoniuk Damian](https://github.com/dsamsoniuk/NoSQL)
