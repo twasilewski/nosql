@@ -29,7 +29,7 @@
 1. Jakubek Daniel
 1. [Kowalska Joanna](https://github.com/jkowalska/nosql)
 1. [Krajnik Martyna](https://github.com/mkrajnik/nosql)
-1. Krzychowiec Rafał
+1. [Krzychowiec Rafał](https://github.com/StringHead/NoSQL-projects/blob/master/zaliczenie.md)
 1. [Kupniewski Rafał] (https://github.com/rkupniewski/dbnosql/blob/master/zaliczenie.md)
 1. [Lipiński Michał, Piątek Mariusz](https://github.com/mlipinski2/nosql_zaliczenie)
 1. [Miszczykowski Mariusz](https://github.com/miszczyk/noSQL/blob/master/README.md)
