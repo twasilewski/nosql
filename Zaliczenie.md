@@ -41,7 +41,6 @@
 1. Blum Bartosz
 1. Brzozowski Patryk
 1. Chylicki Adrian
-1. Piątek Mariusz
 1. Śliwiński Marcin
 1. Tkacz Jessica
 1. Tomasik Przemysław
