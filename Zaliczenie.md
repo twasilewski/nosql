@@ -34,7 +34,7 @@
 1. [Portalski Sylwester](https://github.com/sportalski/nosql)
 1. [Ruchlewicz Natalia](https://github.com/nruchlewicz/NoSQL)
 1. [Samsoniuk Damian](https://github.com/dsamsoniuk/NoSQL)
-1. [Wasilewski Tomasz](https://github.com/twasilewski/noSQL_labs/tree/noSQL_zad)
+1. [Wasilewski Tomasz](https://github.com/twasilewski/noSQL_labs/blob/noSQL_zad/zad2.md)
 1. [Wiergowski Paweł](https://github.com/pwiergowski/nosql_f/blob/master/zaliczenie.md)
 
 <!--
