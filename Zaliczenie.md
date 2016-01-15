@@ -4,13 +4,10 @@
 ## Stacjonarne
 
 1. [Bołt Aleksander](https://github.com/alexandder/nosql-zal)
-1. [Czerwiński, Mateusz](https://github.com/mtczerwinski/red-nosql)
 1. [Jasiński Remigiusz](https://github.com/rjasinski/nosql)
 1. [Kulewicz, Wojciech](https://github.com/wkulewicz/nosql.wk)
-1. [Leyk Szymon](https://github.com/leyas/NoSQL)
 1. [Maziarz, Paulina](https://github.com/pmaziarz/solutions-nosql)
 1. [Mielniczuk, Małgorzata](https://github.com/Gosiamek/NoSQL.git)
-1. [Pawowicz, Oskar](https://github.com/Oski91/no_sql.git)
 1. [Polnik, Aleksander](https://github.com/mralexx/nosql)
 1. [Pranszke Tomasz](https://github.com/tpranszke/nosql)
 1. [Sikora Jacek](https://github.com/jaresh/nosql)
