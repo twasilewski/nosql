@@ -28,11 +28,9 @@
 ----
 
 1. [Basiak Paweł](https://github.com/pbasiak/pbnosql)
-1. [Eggert Marek](https://github.com/Marek4f/nosql)
 1. [Kowalska Joanna](https://github.com/jkowalska/nosql)
 1. [Krajnik Martyna](https://github.com/mkrajnik/nosql)
 1. [Kupniewski Rafał](https://github.com/rkupniewski/dbnosql/blob/master/README.md)
-1. [Lipiński Michał, Piątek Mariusz](https://github.com/mlipinski2/nosql_zaliczenie)
 1. [Portalski Sylwester](https://github.com/sportalski/nosql)
 1. [Ruchlewicz Natalia](https://github.com/nruchlewicz/NoSQL)
 1. [Samsoniuk Damian](https://github.com/dsamsoniuk/NoSQL)
