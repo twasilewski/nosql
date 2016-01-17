@@ -20,7 +20,6 @@
 
 1. [Jakubek Daniel](https://github.com/kassszub/nosql)
 1. [Krzychowiec Rafał](https://github.com/StringHead/NoSQL-projects/blob/master/zaliczenie.md)
-1. [Kupniewski Rafał](https://github.com/rkupniewski/dbnosql/blob/master/README.md)
 1. [Miszczykowski Mariusz](https://github.com/miszczyk/noSQL/blob/master/README.md)
 1. [Ponieważ Paweł](https://github.com/pponiewaz/NoSQL)
 1. [Wasilewski Tomasz](https://github.com/twasilewski/noSQL_labs/tree/noSQL_zad)
@@ -32,6 +31,7 @@
 1. [Eggert Marek](https://github.com/Marek4f/nosql)
 1. [Kowalska Joanna](https://github.com/jkowalska/nosql)
 1. [Krajnik Martyna](https://github.com/mkrajnik/nosql)
+1. [Kupniewski Rafał](https://github.com/rkupniewski/dbnosql/blob/master/README.md)
 1. [Lipiński Michał, Piątek Mariusz](https://github.com/mlipinski2/nosql_zaliczenie)
 1. [Portalski Sylwester](https://github.com/sportalski/nosql)
 1. [Ruchlewicz Natalia](https://github.com/nruchlewicz/NoSQL)
