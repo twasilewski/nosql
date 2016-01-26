@@ -14,6 +14,7 @@
 1. [Słowikowska Sylwia](https://github.com/sslowikowska/nosql)
 1. [Wolf Tomasz](https://github.com/tomaszwolf/nosql)
 1. [Zhorniak Oleksandr](https://github.com/zh0ra/nosql)
+1. [Muszalski Sebastian](https://github.com/Enessetere/no-sql2015)
 
 
 ## Niestacjonarne
